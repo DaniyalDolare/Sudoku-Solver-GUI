@@ -7,7 +7,12 @@ A Sudoku Solver which uses Backtracking algorithm to solve the sudoku user enter
 3. Pillow library
 
 # How to run
-To run GUI version, just run gui.py in terminal.
-To run text version, run the sudoku_text.py in terminal
-
-
+To run GUI version, enter this command in terminal
+```
+python3 gui.py
+```
+To run text version, enter this command in terminal
+```
+python3 sudoku_text.py
+```
+If python3 doesn't work, just use python or py instead of python3.
